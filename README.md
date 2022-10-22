@@ -28,7 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcourbes&show_icons=true&theme=tokyonight&title_color=fff5f5&text_color=ffffff&locale=en" alt="alexcourbes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcourbes&" alt="alexcourbes" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexcourbes" alt="alexcourbes" /></a> </p>
+
 <!--END_SECTION:waka-->
