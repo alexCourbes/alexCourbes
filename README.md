@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexCourbes)](https://github.com/alexCourbes/github-readme-stats)
 <!--END_SECTION:waka-->
 
 
