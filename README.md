@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexCourbes)](https://github.com/alexCourbes/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexCourbes)](https://github.com/alexCourbes/github-readme-stats)
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-->
